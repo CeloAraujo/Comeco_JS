@@ -1,2 +1,2 @@
-# Comeco_JS
-Primeiro contato com JS
+#JavaScript
+Aprendendo e treinando JS
